@@ -1,0 +1,23 @@
+{
+  "extensions": [
+    "c",
+    "h"
+  ],
+  "name": "c",
+  "profile": {
+    "containers": [],
+    "function_kinds": [
+      "function_definition"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "field_identifier",
+      "type_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-c",
+    "rev": "v0.24.2"
+  },
+  "version": "0.24.2"
+}

@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "ql"
+  ],
+  "name": "ql",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-ql",
+    "rev": "v0.23.1"
+  },
+  "version": "0.23.1"
+}

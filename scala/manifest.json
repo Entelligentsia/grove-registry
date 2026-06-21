@@ -1,0 +1,34 @@
+{
+  "extensions": [
+    "scala",
+    "sbt"
+  ],
+  "name": "scala",
+  "profile": {
+    "containers": [
+      [
+        "class_definition",
+        "name"
+      ],
+      [
+        "object_definition",
+        "name"
+      ],
+      [
+        "trait_definition",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_definition"
+    ],
+    "identifier_kinds": [
+      "identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-scala",
+    "rev": "v0.26.0"
+  },
+  "version": "0.26.0"
+}

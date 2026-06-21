@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    "html",
+    "htm"
+  ],
+  "name": "html",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-html",
+    "rev": "v0.23.2"
+  },
+  "version": "0.23.2"
+}

@@ -1,0 +1,39 @@
+{
+  "extensions": [
+    "java"
+  ],
+  "name": "java",
+  "profile": {
+    "containers": [
+      [
+        "class_declaration",
+        "name"
+      ],
+      [
+        "interface_declaration",
+        "name"
+      ],
+      [
+        "enum_declaration",
+        "name"
+      ],
+      [
+        "record_declaration",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "method_declaration",
+      "constructor_declaration"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "type_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-java",
+    "rev": "v0.23.5"
+  },
+  "version": "0.23.5"
+}

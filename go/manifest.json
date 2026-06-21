@@ -1,0 +1,24 @@
+{
+  "extensions": [
+    "go"
+  ],
+  "name": "go",
+  "profile": {
+    "containers": [],
+    "function_kinds": [
+      "function_declaration",
+      "method_declaration"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "field_identifier",
+      "type_identifier",
+      "package_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-go",
+    "rev": "v0.25.0"
+  },
+  "version": "0.25.0"
+}

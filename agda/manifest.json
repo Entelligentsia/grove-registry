@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "agda"
+  ],
+  "name": "agda",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-agda",
+    "rev": "v1.3.3"
+  },
+  "version": "1.3.3"
+}

@@ -1,0 +1,40 @@
+{
+  "extensions": [
+    "cpp",
+    "cc",
+    "cxx",
+    "hpp",
+    "hh"
+  ],
+  "name": "cpp",
+  "profile": {
+    "containers": [
+      [
+        "class_specifier",
+        "name"
+      ],
+      [
+        "struct_specifier",
+        "name"
+      ],
+      [
+        "namespace_definition",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_definition"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "field_identifier",
+      "type_identifier",
+      "namespace_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-cpp",
+    "rev": "v0.23.4"
+  },
+  "version": "0.23.4"
+}

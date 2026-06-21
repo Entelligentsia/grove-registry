@@ -1,0 +1,43 @@
+{
+  "extensions": [
+    "cs"
+  ],
+  "name": "c_sharp",
+  "profile": {
+    "containers": [
+      [
+        "class_declaration",
+        "name"
+      ],
+      [
+        "struct_declaration",
+        "name"
+      ],
+      [
+        "interface_declaration",
+        "name"
+      ],
+      [
+        "namespace_declaration",
+        "name"
+      ],
+      [
+        "record_declaration",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "method_declaration",
+      "constructor_declaration",
+      "local_function_statement"
+    ],
+    "identifier_kinds": [
+      "identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-c-sharp",
+    "rev": "v0.23.5"
+  },
+  "version": "0.23.5"
+}

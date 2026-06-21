@@ -1,0 +1,30 @@
+{
+  "extensions": [
+    "jl"
+  ],
+  "name": "julia",
+  "profile": {
+    "containers": [
+      [
+        "module_definition",
+        "name"
+      ],
+      [
+        "struct_definition",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_definition",
+      "macro_definition"
+    ],
+    "identifier_kinds": [
+      "identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-julia",
+    "rev": "v0.25.0"
+  },
+  "version": "0.25.0"
+}

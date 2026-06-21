@@ -1,0 +1,39 @@
+{
+  "extensions": [
+    "tsx"
+  ],
+  "name": "tsx",
+  "profile": {
+    "containers": [
+      [
+        "class_declaration",
+        "name"
+      ],
+      [
+        "interface_declaration",
+        "name"
+      ],
+      [
+        "internal_module",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_declaration",
+      "method_definition",
+      "method_signature",
+      "function_signature",
+      "abstract_method_signature"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "property_identifier",
+      "type_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-typescript",
+    "rev": "v0.23.2"
+  },
+  "version": "0.23.2"
+}

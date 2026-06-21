@@ -1,0 +1,10 @@
+{
+  "extensions": [],
+  "name": "regex",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-regex",
+    "rev": "v0.25.0"
+  },
+  "version": "0.25.0"
+}

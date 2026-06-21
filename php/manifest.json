@@ -1,0 +1,38 @@
+{
+  "extensions": [
+    "php"
+  ],
+  "name": "php",
+  "profile": {
+    "containers": [
+      [
+        "class_declaration",
+        "name"
+      ],
+      [
+        "interface_declaration",
+        "name"
+      ],
+      [
+        "trait_declaration",
+        "name"
+      ],
+      [
+        "enum_declaration",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_definition",
+      "method_declaration"
+    ],
+    "identifier_kinds": [
+      "name"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-php",
+    "rev": "v0.24.2"
+  },
+  "version": "0.24.2"
+}

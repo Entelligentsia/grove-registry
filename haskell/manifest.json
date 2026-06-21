@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "hs"
+  ],
+  "name": "haskell",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-haskell",
+    "rev": "v0.23.1"
+  },
+  "version": "0.23.1"
+}

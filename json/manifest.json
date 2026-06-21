@@ -1,0 +1,12 @@
+{
+  "extensions": [
+    "json"
+  ],
+  "name": "json",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-json",
+    "rev": "v0.24.8"
+  },
+  "version": "0.24.8"
+}

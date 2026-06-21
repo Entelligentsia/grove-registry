@@ -1,0 +1,13 @@
+{
+  "extensions": [
+    "v",
+    "sv"
+  ],
+  "name": "verilog",
+  "profile": {},
+  "source": {
+    "repo": "tree-sitter/tree-sitter-verilog",
+    "rev": "v1.0.3"
+  },
+  "version": "1.0.3"
+}

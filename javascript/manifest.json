@@ -1,0 +1,29 @@
+{
+  "extensions": [
+    "js",
+    "mjs",
+    "cjs"
+  ],
+  "name": "javascript",
+  "profile": {
+    "containers": [
+      [
+        "class_declaration",
+        "name"
+      ]
+    ],
+    "function_kinds": [
+      "function_declaration",
+      "method_definition"
+    ],
+    "identifier_kinds": [
+      "identifier",
+      "property_identifier"
+    ]
+  },
+  "source": {
+    "repo": "tree-sitter/tree-sitter-javascript",
+    "rev": "v0.25.0"
+  },
+  "version": "0.25.0"
+}
