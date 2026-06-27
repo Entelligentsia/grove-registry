@@ -57,6 +57,9 @@
           "asset": "c.wasm",
           "sha256": "sha256:83e8d7902b9d7f8c7c5cd4bd9acb5c7eb5faf42c09f85546b183964d3b5f48f9"
         },
+        "locals.scm": {
+          "sha256": "sha256:2a5e35be2f932030d435326739fdd38e2ce30824fb4c75d09c4f2e361e09683e"
+        },
         "manifest.json": {
           "sha256": "sha256:f0cb3df9947991319bd5f0826d87ce3e4a1a0a4fa23239650be2a9134a96a78f"
         },
@@ -79,6 +82,9 @@
         "grammar.wasm": {
           "asset": "c_sharp.wasm",
           "sha256": "sha256:6f69e1cae44e1c32c1eccc170dc5a9778fb94ff716f71113fe1f8c4299aa2f40"
+        },
+        "locals.scm": {
+          "sha256": "sha256:7575ae90bd8c5e88d0aa3c91f85d9fc9ac96402a98f2193a93e74366941c4e60"
         },
         "manifest.json": {
           "sha256": "sha256:93a53c12e12aa1e385364bf8d1ead7f5ac0dc00484c1f4adb95b4138f29a265f"
@@ -106,6 +112,9 @@
         "grammar.wasm": {
           "asset": "cpp.wasm",
           "sha256": "sha256:174eb0deb75b2ec7881bcacda9f995648d8e683956e5c2267e69ab6dc503fcbf"
+        },
+        "locals.scm": {
+          "sha256": "sha256:7d1fab2aedbaf0f51a59819ef6f617dde9197e7d7328811926eecf7c50004dc5"
         },
         "manifest.json": {
           "sha256": "sha256:ff1aed72c80b1e54e998fbc66d7ad78e4348d64dd8c4f3f9dcdfe51b1bba3d39"
@@ -177,6 +186,9 @@
           "asset": "go.wasm",
           "sha256": "sha256:9504573f352b20be7f2f1911754d710622aedc15afff16d5ed8fb5645681aee7"
         },
+        "locals.scm": {
+          "sha256": "sha256:2ade867b9175807b5020850653d2ac4b5f738c23b0ccbd41979ccadaa9cedabd"
+        },
         "manifest.json": {
           "sha256": "sha256:4ec384cbe242b6aefdd8b5c35251c2fda4bdb488eb79d990676a367c50ce42f2"
         },
@@ -246,6 +258,9 @@
         "grammar.wasm": {
           "asset": "java.wasm",
           "sha256": "sha256:4fdeac4ca6ca089f06c6f7e562abcac1733cd465728cc7031ebb73c2019122c4"
+        },
+        "locals.scm": {
+          "sha256": "sha256:1fa9d4798bba1c435e41cec0bb8410b90d4aa0c0f63cdc5e7016b9226151cb3a"
         },
         "manifest.json": {
           "sha256": "sha256:ef8331bfaf0a490178aafe044d4e4cdc17bbf57cb010e980e04613b82f01cf67"
@@ -438,6 +453,9 @@
           "asset": "python.wasm",
           "sha256": "sha256:16108b50df4ee9a30168794252ab55e7c93bfc5765d7fa0aa3e335752c515f47"
         },
+        "locals.scm": {
+          "sha256": "sha256:9db2cee5366e7a51fce49fe5b7968f016f87162ee2303a697e2e8dc4481603ba"
+        },
         "manifest.json": {
           "sha256": "sha256:482ea9c4440734f8a0779e23364566e53f1bddf1ce94391007b7f402421051d8"
         },
@@ -530,6 +548,9 @@
         "grammar.wasm": {
           "asset": "rust.wasm",
           "sha256": "sha256:24c89bd9252255e4aebbcbd7d2d308bd92c86dd95a130fdc80efa49577b8d738"
+        },
+        "locals.scm": {
+          "sha256": "sha256:58afaab4457ce88b19d703005538a3c733a379fbd3e3e9008fb37d36c34b913d"
         },
         "manifest.json": {
           "sha256": "sha256:f20f325ca132675463b6ac3130e7d97357860e413b8a708928969a521e003028"
