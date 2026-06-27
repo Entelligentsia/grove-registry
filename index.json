@@ -272,6 +272,9 @@
           "asset": "javascript.wasm",
           "sha256": "sha256:5fb488d0cabb4775a594bab85682de5ad6ce83c0d6ac997a9f82dd084d571240"
         },
+        "locals.scm": {
+          "sha256": "sha256:6756b6a72e7ccde8e49e943928343b48a9bea2de93381131ad18dc602d311af8"
+        },
         "manifest.json": {
           "sha256": "sha256:45bf2b12546638116f93e5fdfc8222ca991e69a6eaa8956325d89bc1d9c5372a"
         },
@@ -338,6 +341,9 @@
         "grammar.wasm": {
           "asset": "julia.wasm",
           "sha256": "sha256:b20da9dc7d7334e2cae034ca4974dd09c94be8c0a524df1fc194b545bc2f49f5"
+        },
+        "locals.scm": {
+          "sha256": "sha256:78d0e89ff899e97a82a2ed092a370ca11fccee28c6b182086eb9aa9ed137dc28"
         },
         "manifest.json": {
           "sha256": "sha256:8e7f1831ea533d56d3b553d139b92a136b3971edc72e330352b3e44ccd142cd8"
@@ -499,6 +505,9 @@
           "asset": "ruby.wasm",
           "sha256": "sha256:09a96427d7c72f0613ed470cd9812223fc4a91d6a9c025c0235cc6bd59ff96f4"
         },
+        "locals.scm": {
+          "sha256": "sha256:f00178e94b9c2ea672fd4ee2e60ac5d7d90be59c72e86292e22620358ac9dbb0"
+        },
         "manifest.json": {
           "sha256": "sha256:b9a8885b965c0d980c0ea34216454f041ba8cca0fe71cd9b983f94bc728a72bf"
         },
@@ -545,6 +554,9 @@
         "grammar.wasm": {
           "asset": "scala.wasm",
           "sha256": "sha256:026c2f9a8374109861f6621f4759ef690faebcaa67c2d56b06af3786c206b030"
+        },
+        "locals.scm": {
+          "sha256": "sha256:809c455e32a921b4f9f7c8e02ddfd14bd7fad700aa0b5ecf7e74cb0d8c8f78a4"
         },
         "manifest.json": {
           "sha256": "sha256:123a6af0b11615e1d513116d1c20a717f4ee9e8da093cd23169519a799ca8193"
