@@ -1,0 +1,35 @@
+grove-registry — third-party query file attribution
+===================================================
+
+This registry redistributes tree-sitter query files (`tags.scm`, `locals.scm`)
+sourced from upstream projects. Their grammars (`grammar.wasm`) are built from the
+tree-sitter grammar repositories listed per language in each `manifest.json`
+(`source.repo` / `source.rev`).
+
+locals.scm
+----------
+
+Scope-aware go-to-def queries. Sources and their licenses:
+
+- ruby, scala, julia, javascript
+  From the official tree-sitter grammar repositories (see each language's
+  `manifest.json` `source`). Licensed MIT.
+
+- python, go, java, c_sharp, c, cpp, rust
+  From nvim-treesitter (https://github.com/nvim-treesitter/nvim-treesitter),
+  licensed Apache-2.0. Each file retains a provenance header pointing at its
+  upstream path. The `cpp` file is **modified by grove**: a single
+  `(init_declarator ...)` pattern was appended to capture plainly-initialized
+  local variables (e.g. `int y = x;`), which the upstream file omits.
+
+  Apache License 2.0: http://www.apache.org/licenses/LICENSE-2.0
+  A copy of the Apache-2.0 license text is available at the URL above and in the
+  nvim-treesitter repository's LICENSE file.
+
+tags.scm
+--------
+
+Definition/reference queries, from the official tree-sitter grammar repositories
+(per-language `manifest.json` `source`), with grove-curated additions where noted
+in `registry-sources.json` (`extra_tags`). Licensed under each grammar repo's
+license (predominantly MIT).
